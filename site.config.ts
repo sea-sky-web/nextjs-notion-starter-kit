@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '68f23bc7eb964b6992e0e955e1a72456',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: 'Sternenhimmel',
+  domain: 'https://sugar-walnut-1e6.notion.site/68f23bc7eb964b6992e0e955e1a72456?v=d529abd13192450c998dd29f9bd1a6a1',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
